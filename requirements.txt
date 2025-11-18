@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+pypdf
+python-dotenv
+tiktoken
+docarray
+sentence-transformers
+transformers
+torch

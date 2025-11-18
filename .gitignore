@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
+# Data
+data/uploads/
+data/vectorstore/
