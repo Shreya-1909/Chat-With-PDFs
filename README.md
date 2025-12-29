@@ -145,6 +145,3 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`).
 
 ---
 
-## 🧾 License
-
-This project is provided as a learning scaffold. You can modify and use it for your portfolio or personal projects.
